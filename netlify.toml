@@ -1,0 +1,4 @@
+[build]
+base = "project"
+publish = "project/dist"  # Adjust this if your build output directory is different
+command = "npm run build"  # Adjust this if your build command is different
