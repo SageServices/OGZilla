@@ -1,4 +1,4 @@
 [build]
-base = "project"
+base = "pGodZilla-sb1-k4xz2pgn"
 publish = "dist"  # This should be relative to the base directory
 command = "npm run build"  # Adjust this if your build command is different
