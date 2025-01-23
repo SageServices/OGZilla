@@ -92,7 +92,7 @@ function App() {
 
       <div className="flex gap-8">
         <a
-          href="https://x.com"
+          href="https://t.me/+vDvBtbz2GAAzODVh"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-3 bg-gradient-to-r from-blue-600 to-blue-700 text-white px-8 py-4 rounded-xl hover:scale-105 transition-all shadow-lg shadow-blue-500/20 hover:shadow-blue-500/40"
@@ -102,7 +102,7 @@ function App() {
         </a>
         
         <a
-          href="https://t.me"
+          href="https://t.me/+vDvBtbz2GAAzODVh"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-3 bg-gradient-to-r from-[#0088cc] to-[#0077b5] text-white px-8 py-4 rounded-xl hover:scale-105 transition-all shadow-lg shadow-[#0088cc]/20 hover:shadow-[#0088cc]/40"
@@ -112,7 +112,7 @@ function App() {
         </a>
         
         <a
-          href="#"
+          href="https://pump.fun"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-3 bg-gradient-to-r from-green-500 to-emerald-600 text-white px-8 py-4 rounded-xl hover:scale-105 transition-all shadow-lg shadow-green-500/20 hover:shadow-green-500/40"
